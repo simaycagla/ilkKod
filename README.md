@@ -1,3 +1,3 @@
 # ilkKod
 İlk Java uygulamam
-Bu projede, 1 ile 20 arasındaki çift sayıların toplamını hesaplayan bir Java programı bulunmaktadır.
+Simay Çağla İlgüner , Yönetim Bilişim Sistemleri , Nesneye yönelik Programlama , ögrenci no 030422013
